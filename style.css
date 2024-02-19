@@ -1,0 +1,21 @@
+/* Default light mode styles */
+body {
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text */
+}
+
+.button {
+    background-color: #007bff; /* Blue button */
+    color: #ffffff; /* White text */
+}
+
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #1e1e1e; /* Dark background */
+    color: #ffffff; /* White text */
+}
+
+.button.dark-mode {
+    background-color: #adb5bd; /* Dark gray button */
+    color: #000000; /* Black text */
+}
